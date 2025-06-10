@@ -1,0 +1,1 @@
+// app_constants.dart: App-wide constants (API URLs, cache keys, etc.)
